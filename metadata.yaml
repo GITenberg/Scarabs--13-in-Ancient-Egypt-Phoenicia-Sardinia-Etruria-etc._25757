@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '31557'
     url: http://www.gutenberg.org/2009/agents/31557
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25757#Scarabs--13-in-Ancient-Egypt-Phoenicia-Sardinia-Etruria-etc.
 gutenberg_issued: '2008-06-10'
 gutenberg_type: Text
 identifiers:
